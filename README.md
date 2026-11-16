@@ -1,0 +1,1 @@
+This is a recipe notes application, created by Vasco
